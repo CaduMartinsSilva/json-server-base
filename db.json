@@ -6,6 +6,29 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "Donkey@gmail.com",
+      "password": "$2a$10$qu9.k8G9eM4KB2v8/euSROeIOm11s3s.YakozkbNlMcXMCIqL6Qk.",
+      "name": "Donkey Kong",
+      "age": "70",
+      "id": 3
+    }
+  ],
+  "sons": [
+    {
+      "name": "Diddy Kong",
+      "age": "12",
+      "userId": "3",
+      "id": 1
+    }
+  ],
+  "villains": [
+    {
+      "name": "Krusha K. Rool",
+      "age": "70",
+      "userId": "3",
+      "id": 1
     }
   ]
 }
